@@ -1,0 +1,51 @@
+body {
+	background-color:black;
+	height:2000px
+}
+.linksection {
+	margin:auto;
+	width:90%;
+	padding-top:10px;
+}
+.nav {
+	height:80%;
+	width:80%;
+	margin-left:10%;
+	margin-top:5%
+}
+.links{
+ margin-left:0px;
+ background-color:white;
+ text-decoration:none
+}
+
+.firstfour {
+	background-color:white;
+	width:45%;
+	margin-left:25%;
+	margin-top:2%;
+	padding:1%;
+}
+
+.secondfour {
+	background-color:white;
+	width:45%;
+	margin-left:25%;
+	margin-top:5%;
+	padding:1%;
+}
+
+.thirdfour{
+	background-color:white;
+	width:45%;
+	margin-left:25%;
+	margin-top:5%;
+	padding:1%
+}
+
+button {
+	margin-right:0%;
+	padding:1%;
+	color:white;
+	border-radius:10px;
+}
